@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on building apps or frameworks mainly using NodeJs(TypeScript) and [Serverless Framework](https://github.com/serverless/serverless).
+
+Since I was working as a server and database engineer until a few years ago, primarily focusing on on-premises servers and virtual machines on cloud operation systems. Now I realize the fact that serverless functions - Function as a Service - and ecosystem around them make my life a lot more easier.
+
 <!--
 **oginokairan/oginokairan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
