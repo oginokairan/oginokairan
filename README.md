@@ -2,10 +2,10 @@
 
 - 🌱 I’m currently watching THE BLACKLIST.
 
+<!--
 [![oginokairan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oginokairan&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oginokairan&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 **oginokairan/oginokairan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
