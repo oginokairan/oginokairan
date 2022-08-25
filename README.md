@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently watching THE BLACKLIST.
+- 😄 Pronouns: Coding, fishing, and camping.
+
 
 <!--
 [![oginokairan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oginokairan&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
