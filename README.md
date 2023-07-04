@@ -1,8 +1,3 @@
-### Hi there 👋
-
-- 😄 Pronouns: Coding, fishing, and camping.
-
-
 <!--
 [![oginokairan's GitHub stats](https://github-readme-stats.vercel.app/api?username=oginokairan&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oginokairan&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
