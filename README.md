@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oginokairan&label=Profile%20views&color=0e75b6&style=flat" alt="oginokairan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oginokairan" alt="oginokairan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oginokairan&theme=darkhub&no-bg=true" alt="oginokairan" /></a> </p>
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=awh1p5wx2kcimpgvmw53c503z">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=awh1p5wx2kcimpgvmw53c503z" alt="Data Card for Spotify">
