@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm oginokairan</h1>
 
 ## 🔥 About Me
-- 🏢 **Backend Engineer at [Morph](https://github.com/morph-data)**
+- 🏢 **Backend Engineer at [squadbase](github.com/squadbase)**
 - 📍 **Based in Tokyo, Japan**
 - 📊 **Passionate about large-scale database systems**
 - 🚀 **Building scalable and robust backend solutions**
