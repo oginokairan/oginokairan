@@ -45,20 +45,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shibatanaoto&theme=darkhub&no-bg=true" alt="Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oginokairan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oginokairan&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🎵 Now Playing
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=awh1p5wx2kcimpgvmw53c503z">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=awh1p5wx2kcimpgvmw53c503z" alt="Data Card for Spotify">
 </a>
