@@ -46,7 +46,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shibatanaoto&theme=darkhub&no-bg=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=oginokairan&theme=darkhub&no-bg=true" alt="Trophies" />
 </p>
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=awh1p5wx2kcimpgvmw53c503z">
