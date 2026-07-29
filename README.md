@@ -38,34 +38,24 @@
   </picture>
 </div>
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=oginokairan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=oginokairan&amp;show_icons=true&amp;theme=default&amp;hide_border=true">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oginokairan&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="oginokairan's GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zohan.tech/api?username=oginokairan&amp;show_icons=true&amp;hide_border=true&amp;card_width=250&amp;theme=tokyonight">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.zohan.tech/api?username=oginokairan&amp;show_icons=true&amp;hide_border=true&amp;card_width=250&amp;theme=default">
+    <img height="150" src="https://github-readme-stats.zohan.tech/api?username=oginokairan&amp;show_icons=true&amp;hide_border=true&amp;card_width=250&amp;theme=default" alt="oginokairan's GitHub stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oginokairan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oginokairan&amp;layout=compact&amp;theme=default&amp;hide_border=true">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oginokairan&amp;layout=compact&amp;theme=default&amp;hide_border=true" alt="oginokairan's top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.zohan.tech/api/top-langs/?username=oginokairan&amp;layout=compact&amp;hide_border=true&amp;card_width=250&amp;theme=tokyonight">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.zohan.tech/api/top-langs/?username=oginokairan&amp;layout=compact&amp;hide_border=true&amp;card_width=250&amp;theme=default">
+    <img height="150" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=oginokairan&amp;layout=compact&amp;hide_border=true&amp;card_width=250&amp;theme=default" alt="oginokairan's top languages">
   </picture>
-</div>
-
-## Activity Graph
-
-<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=oginokairan&amp;theme=tokyo-night&amp;hide_border=true">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=oginokairan&amp;theme=github-light&amp;hide_border=true">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oginokairan&amp;theme=github-light&amp;hide_border=true" alt="oginokairan's contribution activity graph">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=oginokairan&amp;hide_border=true&amp;height=250&amp;theme=tokyo-night">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=oginokairan&amp;hide_border=true&amp;height=250&amp;theme=github-light">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oginokairan&amp;hide_border=true&amp;height=250&amp;theme=github-light" alt="oginokairan's contribution activity graph">
   </picture>
-</div>
-
-## Contribution Snake
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oginokairan/oginokairan/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/oginokairan/oginokairan/output/github-contribution-grid-snake.svg">
