@@ -28,18 +28,28 @@
 | **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) |
 
+## GitHub Trophies
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=oginokairan&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-trophies.vercel.app/?username=oginokairan&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8">
+    <img width="100%" src="https://github-trophies.vercel.app/?username=oginokairan&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8" alt="oginokairan's GitHub trophies">
+  </picture>
+</div>
+
 ## GitHub Stats
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=oginokairan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=oginokairan&amp;show_icons=true&amp;theme=default&amp;hide_border=true">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=oginokairan&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="oginokairan's GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=oginokairan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=oginokairan&amp;show_icons=true&amp;theme=default&amp;hide_border=true">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oginokairan&amp;show_icons=true&amp;theme=default&amp;hide_border=true" alt="oginokairan's GitHub stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oginokairan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=oginokairan&amp;layout=compact&amp;theme=default&amp;hide_border=true">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oginokairan&amp;layout=compact&amp;theme=default&amp;hide_border=true" alt="oginokairan's top languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oginokairan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oginokairan&amp;layout=compact&amp;theme=default&amp;hide_border=true">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=oginokairan&amp;layout=compact&amp;theme=default&amp;hide_border=true" alt="oginokairan's top languages">
   </picture>
 </div>
 
@@ -60,15 +70,5 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oginokairan/oginokairan/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://raw.githubusercontent.com/oginokairan/oginokairan/output/github-contribution-grid-snake.svg">
     <img width="100%" src="https://raw.githubusercontent.com/oginokairan/oginokairan/output/github-contribution-grid-snake.svg" alt="Snake animation of oginokairan's contribution graph">
-  </picture>
-</div>
-
-## GitHub Trophies
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=oginokairan&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-profile-trophy.vercel.app/?username=oginokairan&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=oginokairan&amp;theme=flat&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8" alt="oginokairan's GitHub trophies">
   </picture>
 </div>
